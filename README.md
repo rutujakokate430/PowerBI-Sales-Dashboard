@@ -99,4 +99,4 @@ Dynamic DAX measures and calculations were implemented to enhance dashboard inte
 
 This **Global Sales Dashboard** provides an intuitive and data-driven interface for analyzing sales performance across regions and categories. By leveraging Power BI’s capabilities, the project delivers actionable insights, enabling stakeholders to make informed decisions and optimize strategies.  
 
-For further details or questions, please contact: [Your Contact Information].
+For further details or questions, please contact: rutujakokate430@gmail.com
