@@ -48,7 +48,7 @@ The dashboard features several interactive visualizations:
 The following transformations were performed in Power Query:  
 
 1. **Data Import**:  
-   - Imported datasets from multiple sources such as Excel and SQL Server.  
+   - Imported dataset- Global Superstore.txt.  
 
 2. **Data Cleaning**:  
    - Removed duplicates and filtered null or invalid values.  
