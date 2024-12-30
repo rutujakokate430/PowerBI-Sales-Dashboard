@@ -8,6 +8,7 @@ This Power BI project presents a comprehensive **Global Sales Dashboard** design
 - Analyzing trends and patterns in product categories.  
 - Evaluating metrics like revenue, profit, and sales growth.  
 - Optimizing strategies and operations through actionable insights.
+PowerBI.com - https://app.powerbi.com/groups/me/reports/7799e6bc-2235-4a55-a588-2b99323b66a4/c0c3b7a5392f6091415d?experience=power-bi
 
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/dbec22d6-73f6-4860-815c-70ea78c1ff92" />
 
